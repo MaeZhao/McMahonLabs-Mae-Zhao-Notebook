@@ -1,0 +1,3 @@
+[submodule "GBS_Subgraph_Simulation/project"]
+	path = GBS_Subgraph_Simulation/project
+	url = git@github.com:https://github.com/MaeZhao/GBS-Dense-K-Subgraph-Search.git
