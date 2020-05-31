@@ -1,3 +1,3 @@
-[submodule GBS_Subgraph_Simulation]
-	path = GBS_Subgraph_Simulation
+[submodule "GBS-Subgraph-Simulation"]
+	path = GBS-Subgraph-Simulation
 	url = https://github.com/MaeZhao/GBS-Subgraph-Simulation.git
