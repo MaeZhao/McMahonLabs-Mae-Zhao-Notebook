@@ -2,8 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/GBS_Subgraph_Simulation/project" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/GBS_Subgraph_Simulation/repo_refs/dill" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/GBS_Subgraph_Simulation/repo_refs/multiprocess" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GBS Subgraph Simulation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GBS Subgraph Simulation/repo_refs/dill" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GBS Subgraph Simulation/repo_refs/multiprocess" vcs="Git" />
   </component>
 </project>
