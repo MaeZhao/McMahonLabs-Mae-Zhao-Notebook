@@ -5,6 +5,5 @@
     <mapping directory="$PROJECT_DIR$/GBS_Subgraph_Simulation/project" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/GBS_Subgraph_Simulation/repo_refs/dill" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/GBS_Subgraph_Simulation/repo_refs/multiprocess" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/project" vcs="Git" />
   </component>
 </project>
